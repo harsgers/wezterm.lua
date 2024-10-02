@@ -1,1 +1,1 @@
-# wezterm.lua
+# Wezterm Config

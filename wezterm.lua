@@ -9,7 +9,6 @@ local config = wezterm.config_builder()
 -- For example, changing the color scheme:
 config.color_scheme = "Nightfox"
 config.font = wezterm.font("JetBrains Mono")
-config.window_background_opacity = 0.85
 
 -- and finally, return the configuration to wezterm
 return config
